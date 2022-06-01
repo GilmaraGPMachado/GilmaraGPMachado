@@ -4,4 +4,3 @@
 - 📫 Quer uma profissional capacitada,  que busca melhoria contínua e possui fácil aprendizado?  Então clica aqui: https://www.linkedin.com/in/gilmaragpm/
 
 
-  ![Snake animation](https://github.com/GilmaraGPMachado/GilmaraGPMachado/blob/output/github-contribution-grid-snake.svg)
